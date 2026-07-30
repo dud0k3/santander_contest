@@ -1,5 +1,6 @@
-# SANTANDER Customer Transaction Prediction
-Santander - компания была спонсором моей любимой футбольной лиги(захотелось вникнуть)
+# SANTANDER Customer Transaction Prediction - https://www.kaggle.com/competitions/santander-customer-transaction-prediction/overview
+
+Santander - компания была спонсором моей любимой футбольной лиги(захотелось вникнуть именно в этот контест)
 
 Нужно предсказать совершит клиент транзакцию или нет (таргеты - 1 и 0 соответсвенно)
 
