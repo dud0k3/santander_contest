@@ -1,3 +1,4 @@
+
 # SANTANDER Customer Transaction Prediction - https://www.kaggle.com/competitions/santander-customer-transaction-prediction/overview
 
 Santander - компания была спонсором моей любимой футбольной лиги(захотелось вникнуть именно в этот контест)
@@ -46,6 +47,10 @@ Santander - компания была спонсором моей любимой
 - Исходя из кол-во пользователей ~9000 участников мой результат находится примерно в 10-15% лучших работ
 
 <img width="1280" height="759" alt="Снимок экрана — 2026-07-30 в 22 06 58" src="https://github.com/user-attachments/assets/7cfaefb3-77f3-4c37-880d-0a50b8adedc4" />
+
+
+<img width="1280" height="763" alt="Снимок экрана — 2026-07-31 в 13 08 17" src="https://github.com/user-attachments/assets/8480ad66-b09e-4da6-99e9-9c4f8b407db0" />
+
  
 
 
